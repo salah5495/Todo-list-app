@@ -43,9 +43,6 @@ addTask.addEventListener('click', function(){
         let target = e.target
         target.parentElement.parentElement.remove();
       });
-    // deleteBtn.addEventListener('click', function(){
-    //     deleteBtn.parentElement.style.display = "none";
-
-    // });
+   
 
 });
