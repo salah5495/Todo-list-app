@@ -1,4 +1,4 @@
-# Todoapp
+# Todo app
 # ` html`, ` css ` and `javacript `
 # allows user to input tasks: 
   * the user can check task and: 
